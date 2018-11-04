@@ -2,7 +2,7 @@
 This will be a repo that will cover aspects on object-oriented programming, the design stage of developing and patterns within design
 
 
-## What is Object oriented programming
+## What is Object oriented programming and the paradigm for it
 
 Object oriented programming is a programming format that bases most of the functions and functionality of the program into certain objects that are within the program. By doing this it adds extra uses that can only be used when dealing with objects. OOP is more commonly used within the programs that are interactive like gaming programs as the objects and classes within them prove to be a more efficient way of developing them.
 
@@ -19,3 +19,7 @@ When creating objects, it is common to find many of the different objects to hav
 
 #### 4. Polymorphism
 Polymorphism is the other version of inheritance and is where the developer wants a child class that has the exact same functions and classes as its parent but cannot be called the same thing, to solve this issue developers use a method called polymorphism to create a new object that has a different name but the exact same parameters as the first. An example of this is shapes, an object called square may have a certain method to calculating the size of it, to replicate this but with a triangle, the developer will use polymorphism to have a child object that is near the same as the parent but with a different means to use. 
+
+
+
+
